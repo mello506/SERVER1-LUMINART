@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO1 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO1 - 720 - DUB[/COLOR]
 LINKDOFILME
 [COLOR lime]
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E01" tvg-logo="http://srvcliente.me:80/images/63bd5eec7371826b8f7f31a38d06b0f5.jpg" group-title="S | EL CHAPO",El Chapo S01 E01
@@ -22,7 +22,7 @@ http://srvcliente.me:80/series/paulocesar/102030/26960.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E09" tvg-logo="http://srvcliente.me:80/images/fd8941521ef1faff709d6a37ac1b70a3.jpg" group-title="S | EL CHAPO",El Chapo S01 E09
 http://srvcliente.me:80/series/paulocesar/102030/26961.mp4
 [/COLOR]
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO2 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO2 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S02 E01" tvg-logo="http://srvcliente.me:80/images/ad56f79ca2ce4c87cebcbe73eb055fd5.jpg" group-title="S | EL CHAPO",El Chapo S02 E01
@@ -50,7 +50,7 @@ http://srvcliente.me:80/series/paulocesar/102030/26972.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S02 E12" tvg-logo="http://srvcliente.me:80/images/a0def7afe9de7dc1c073ad39136afbf1.jpg" group-title="S | EL CHAPO",El Chapo S02 E12
 http://srvcliente.me:80/series/paulocesar/102030/26973.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO3 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO3 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S03 E01" tvg-logo="http://srvcliente.me:80/images/1812c96509569d8b1b93b950e3d02ca1.jpg" group-title="S | EL CHAPO",El Chapo S03 E01
