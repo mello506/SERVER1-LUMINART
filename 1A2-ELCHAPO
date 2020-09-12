@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] EL CHAPO - TO1 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E01" tvg-logo="http://srvcliente.me:80/images/63bd5eec7371826b8f7f31a38d06b0f5.jpg" group-title="S | EL CHAPO",El Chapo S01 E01
 http://srvcliente.me:80/series/paulocesar/102030/26953.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El Chapo S01 E02" tvg-logo="http://srvcliente.me:80/images/c004c47e2459c8e200e9b5a4135ed3eb.jpg" group-title="S | EL CHAPO",El Chapo S01 E02
