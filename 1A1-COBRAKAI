@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] COBRA KAI - TO1 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] COBRA KAI - TO1 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E01" tvg-logo="http://srvcliente.me:80/images/411f97ebdfcdf73649352ee9f69bce9d.jpg" group-title="S | COBRA KAI",Cobra Kai S01 E01
@@ -24,7 +24,7 @@ http://srvcliente.me:80/series/paulocesar/102030/27122.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S01 E10" tvg-logo="http://srvcliente.me:80/images/1c54dbdf1aba58d8fa21a376de49aade.jpg" group-title="S | COBRA KAI",Cobra Kai S01 E10
 http://srvcliente.me:80/series/paulocesar/102030/27123.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="http://srvcliente.me:80/images/1d1cc7de197e1819b58d608dff418251.jpg" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] COBRA KAI - TO2 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] COBRA KAI - TO2 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S02 E01" tvg-logo="http://srvcliente.me:80/images/321fcfa24fa2916b0d9d96f967d7c7f1.jpg" group-title="S | COBRA KAI",Cobra Kai S02 E01
