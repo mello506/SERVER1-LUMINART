@@ -1,0 +1,93 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] BLACK SAILS - TO1 - 720 - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E01" tvg-logo="X372d94084b58f18f7cdb3f924a024b41.jpg" group-title="S | BLACK SAILS",Black Sails S01 E01
+http://srvcliente.me:80/series/paulocesar/102030/4008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E02" tvg-logo="Xb75ab71a216da695f9eec2e2b1a968b5.jpg" group-title="S | BLACK SAILS",Black Sails S01 E02
+http://srvcliente.me:80/series/paulocesar/102030/4009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E03" tvg-logo="X51ad18d6c31c1fc7b3f2ac1c41249e1a.jpg" group-title="S | BLACK SAILS",Black Sails S01 E03
+http://srvcliente.me:80/series/paulocesar/102030/4010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E04" tvg-logo="X18e250910321771b42a1633d34b98ac6.jpg" group-title="S | BLACK SAILS",Black Sails S01 E04
+http://srvcliente.me:80/series/paulocesar/102030/4011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E05" tvg-logo="Xf032554aaad05910a6b205e4a4980310.jpg" group-title="S | BLACK SAILS",Black Sails S01 E05
+http://srvcliente.me:80/series/paulocesar/102030/4012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E06" tvg-logo="X0cb99857403822f21be6750ba0058bd2.jpg" group-title="S | BLACK SAILS",Black Sails S01 E06
+http://srvcliente.me:80/series/paulocesar/102030/4013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E07" tvg-logo="X303a952f1a341e7856fc4ef574003c56.jpg" group-title="S | BLACK SAILS",Black Sails S01 E07
+http://srvcliente.me:80/series/paulocesar/102030/4014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S01 E08" tvg-logo="Xfc3855dfb3637a7203cddcb3ab486ac1.jpg" group-title="S | BLACK SAILS",Black Sails S01 E08
+http://srvcliente.me:80/series/paulocesar/102030/4015.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] BLACK SAILS - TO2 - 720 - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E01" tvg-logo="Xda59a194e058425ccaf5614a0ea9b7d8.jpg" group-title="S | BLACK SAILS",Black Sails S02 E01
+http://srvcliente.me:80/series/paulocesar/102030/4016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E02" tvg-logo="Xec3d69209f76d6d42f22c2244ffae556.jpg" group-title="S | BLACK SAILS",Black Sails S02 E02
+http://srvcliente.me:80/series/paulocesar/102030/4017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E03" tvg-logo="X326e74d68b34b4ecbdbd918212476301.jpg" group-title="S | BLACK SAILS",Black Sails S02 E03
+http://srvcliente.me:80/series/paulocesar/102030/4018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E04" tvg-logo="X12d2df143e1fb8d6ef03befda5f3d256.jpg" group-title="S | BLACK SAILS",Black Sails S02 E04
+http://srvcliente.me:80/series/paulocesar/102030/4019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E05" tvg-logo="Xb8d2698e733be75cb5bff30d442ee760.jpg" group-title="S | BLACK SAILS",Black Sails S02 E05
+http://srvcliente.me:80/series/paulocesar/102030/4020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E06" tvg-logo="X37fe9c6b0340f7d938e124d5fea13191.jpg" group-title="S | BLACK SAILS",Black Sails S02 E06
+http://srvcliente.me:80/series/paulocesar/102030/4021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E07" tvg-logo="Xe13292e2588a70c21d14322f64aa22d3.jpg" group-title="S | BLACK SAILS",Black Sails S02 E07
+http://srvcliente.me:80/series/paulocesar/102030/4022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E08" tvg-logo="Xd2c12cd7758c0cf8f21a69807274b3d8.jpg" group-title="S | BLACK SAILS",Black Sails S02 E08
+http://srvcliente.me:80/series/paulocesar/102030/4023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E09" tvg-logo="Xb3405c25ef3443a3b5909db77cbd88a8.jpg" group-title="S | BLACK SAILS",Black Sails S02 E09
+http://srvcliente.me:80/series/paulocesar/102030/4024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S02 E10" tvg-logo="X5e3ae13c1bdd25b8d72c783f1c309aac.jpg" group-title="S | BLACK SAILS",Black Sails S02 E10
+http://srvcliente.me:80/series/paulocesar/102030/4025.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] BLACK SAILS - TO3 - 720 - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E01" tvg-logo="X82137b3f56b014f0afc60de2a7618f35.jpg" group-title="S | BLACK SAILS",Black Sails S03 E01
+http://srvcliente.me:80/series/paulocesar/102030/4026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E02" tvg-logo="X7c67f921afe3d38cab9809f94b70a3a1.jpg" group-title="S | BLACK SAILS",Black Sails S03 E02
+http://srvcliente.me:80/series/paulocesar/102030/4027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E03" tvg-logo="Xc942c41f2b21e25103f2b1e9172a6be4.jpg" group-title="S | BLACK SAILS",Black Sails S03 E03
+http://srvcliente.me:80/series/paulocesar/102030/4028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E04" tvg-logo="X73327e962a51293840e1617a17f091b2.jpg" group-title="S | BLACK SAILS",Black Sails S03 E04
+http://srvcliente.me:80/series/paulocesar/102030/4029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E05" tvg-logo="X278df8a1c9822eea411c856f077a1adf.jpg" group-title="S | BLACK SAILS",Black Sails S03 E05
+http://srvcliente.me:80/series/paulocesar/102030/4030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E06" tvg-logo="X28505af5c31044b57b50a03b1cf9b577.jpg" group-title="S | BLACK SAILS",Black Sails S03 E06
+http://srvcliente.me:80/series/paulocesar/102030/4031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E07" tvg-logo="Xb12034f6a6fbdb33d110538ae54048b0.jpg" group-title="S | BLACK SAILS",Black Sails S03 E07
+http://srvcliente.me:80/series/paulocesar/102030/4032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E08" tvg-logo="Xe7e58fa4472eb33859413c4ee7c7d48b.jpg" group-title="S | BLACK SAILS",Black Sails S03 E08
+http://srvcliente.me:80/series/paulocesar/102030/4033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E09" tvg-logo="X15a72d4a91304a0d6a5a31057453f0a5.jpg" group-title="S | BLACK SAILS",Black Sails S03 E09
+http://srvcliente.me:80/series/paulocesar/102030/4034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S03 E10" tvg-logo="X7201418db66c61afb826de062e991d7a.jpg" group-title="S | BLACK SAILS",Black Sails S03 E10
+http://srvcliente.me:80/series/paulocesar/102030/4035.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/Z198HvG/cat-series.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] BLACK SAILS - TO4 - 720 - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E01" tvg-logo="X6eff9e899096fb3b3120cb038f481ae4.jpg" group-title="S | BLACK SAILS",Black Sails S04 E01
+http://srvcliente.me:80/series/paulocesar/102030/4036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E02" tvg-logo="Xcef861ad316324ce13714cbb55459545.jpg" group-title="S | BLACK SAILS",Black Sails S04 E02
+http://srvcliente.me:80/series/paulocesar/102030/4037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E03" tvg-logo="Xcb07b205a0f7927cac006c0b48c608f3.jpg" group-title="S | BLACK SAILS",Black Sails S04 E03
+http://srvcliente.me:80/series/paulocesar/102030/4038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E04" tvg-logo="X642c97ac7c3dc5c3a2ab570a57d80296.jpg" group-title="S | BLACK SAILS",Black Sails S04 E04
+http://srvcliente.me:80/series/paulocesar/102030/4039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E05" tvg-logo="X5fffa574f72fbd25b42a461d6cde1396.jpg" group-title="S | BLACK SAILS",Black Sails S04 E05
+http://srvcliente.me:80/series/paulocesar/102030/4040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E06" tvg-logo="Xe973cd05e4d077e5250b45ee66c69a68.jpg" group-title="S | BLACK SAILS",Black Sails S04 E06
+http://srvcliente.me:80/series/paulocesar/102030/4041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E07" tvg-logo="X9f8f98b17120c1a8a7afaf3bda713c2a.jpg" group-title="S | BLACK SAILS",Black Sails S04 E07
+http://srvcliente.me:80/series/paulocesar/102030/4042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E08" tvg-logo="X266ccf42b2de0c54e6620407a31cdf48.jpg" group-title="S | BLACK SAILS",Black Sails S04 E08
+http://srvcliente.me:80/series/paulocesar/102030/4043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E09" tvg-logo="X12176a10bc55334cb23722b4f637da1c.jpg" group-title="S | BLACK SAILS",Black Sails S04 E09
+http://srvcliente.me:80/series/paulocesar/102030/4044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Sails S04 E10" tvg-logo="Xcf4bb69a82150afa01d062baa71f1440.jpg" group-title="S | BLACK SAILS",Black Sails S04 E10
+http://srvcliente.me:80/series/paulocesar/102030/4045.mp4
