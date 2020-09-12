@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] GAME OF THRONES - TO1 - 720 - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO1 - 720 - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S01 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/0b18179ae0e404ebb1570f84ca8a1801.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S01 E01
@@ -45,6 +45,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25068.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25069.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S01 E21" tvg-logo="XXXXXXXXXXXX.xyz:80/images/75bc55587b8f54388e1cc19c8d335fd2.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S01 E21
 http://srvcliente.me:80/series/paulocesar/102030/25070.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO2 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S02 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/eb7033d8563148fced234050fffc0602.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S02 E01
 http://srvcliente.me:80/series/paulocesar/102030/25071.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S02 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/bd89d425f784b40696a647d3394f4f6a.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S02 E02
@@ -135,6 +139,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25113.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E22" tvg-logo="XXXXXXXXXXXX.xyz:80/images/48deb5ed77009b277450b5505c363d8f.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S03 E22
 http://srvcliente.me:80/series/paulocesar/102030/25115.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO4 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/98cafa6126abd150b4b3a7e34a702b8a.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S04 E01
 http://srvcliente.me:80/series/paulocesar/102030/25116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/903c9f7e6110800313a5dc52a76d9b36.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S04 E02
@@ -179,6 +187,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25135.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25136.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E22" tvg-logo="XXXXXXXXXXXX.xyz:80/images/8bba24e7b764fadf31a192202cd56e9d.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S04 E22
 http://srvcliente.me:80/series/paulocesar/102030/25137.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO5 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S05 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/a75503edfc112c3ec1b0ffe8d6743abd.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S05 E01
 http://srvcliente.me:80/series/paulocesar/102030/25138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S05 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/4cfb0d20145bc235d6571c1ebc37d44b.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S05 E02
@@ -223,6 +235,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25157.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25158.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S05 E22" tvg-logo="XXXXXXXXXXXX.xyz:80/images/93ca3ac18978e12e4f54f4ea3c96148a.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S05 E22
 http://srvcliente.me:80/series/paulocesar/102030/25159.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO6 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S06 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/128aaac131d5920d0d9f0bcb19eee940.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S06 E01
 http://srvcliente.me:80/series/paulocesar/102030/25160.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S06 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/c64ec3953a2da11a53e4bf6b56ac66af.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S06 E02
@@ -267,6 +283,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25179.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25180.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S06 E22" tvg-logo="XXXXXXXXXXXX.xyz:80/images/ce755f4de67d9e16e0a928c44d12271d.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S06 E22
 http://srvcliente.me:80/series/paulocesar/102030/25181.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO7 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S07 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/71386b4ab42c07e23534e608bdc7640a.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S07 E01
 http://srvcliente.me:80/series/paulocesar/102030/25182.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S07 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/e2ed7f5f8b3db5b594f146b8b783b987.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S07 E02
@@ -307,6 +327,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25199.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25200.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S07 E20" tvg-logo="XXXXXXXXXXXX.xyz:80/images/7144606664d793450be52a619ba787d3.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S07 E20
 http://srvcliente.me:80/series/paulocesar/102030/25201.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO8 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S08 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/52534f78751a595943e0c8e9e3df746e.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S08 E01
 http://srvcliente.me:80/series/paulocesar/102030/25202.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S08 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/d18516e60ca07502b21c52d0454d6245.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S08 E02
@@ -351,6 +375,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25221.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25222.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S08 E22" tvg-logo="XXXXXXXXXXXX.xyz:80/images/e1c74335cdfdd29567c4d370704e4eb7.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S08 E22
 http://srvcliente.me:80/series/paulocesar/102030/25223.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO9 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S09 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/e2054de3246c958d07605d01ccb7e898.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S09 E01
 http://srvcliente.me:80/series/paulocesar/102030/25224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S09 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/8302c751be9b8b66c016e3c7a5cf9699.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S09 E02
@@ -393,6 +421,10 @@ http://srvcliente.me:80/series/paulocesar/102030/25242.mp4
 http://srvcliente.me:80/series/paulocesar/102030/25243.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S09 E21" tvg-logo="XXXXXXXXXXXX.xyz:80/images/4bb6f0c8dff01d5efd2dd96b37e70e76.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S09 E21
 http://srvcliente.me:80/series/paulocesar/102030/25244.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIES" tvg-logo="https://i.ibb.co/bPpF6Xv/icon.png" group-title="SERIES",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] SMALLVILLE - TO10 - 720 - DUB[/COLOR]
+LINKDOFILME
+
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S10 E01" tvg-logo="XXXXXXXXXXXX.xyz:80/images/079b79b6b2cf328892d7a2a87c257fcf.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S10 E01
 http://srvcliente.me:80/series/paulocesar/102030/25245.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S10 E02" tvg-logo="XXXXXXXXXXXX.xyz:80/images/145f330aba64f53ae9f1a490b5824b5e.jpg" group-title="S | SMALLVILLE",Smallville: As Aventuras do Superboy S10 E02
