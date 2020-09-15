@@ -1,0 +1,23 @@
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] O IMPÉRIO OTOMANO [/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A7-IMPERIOOTOMANO</externallink>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>O IMPÉRIO OTOMANO</info>
+<genre>DRAMA</genre> 
+
+#EXTM3U
+
+#EXTINF:-1,Ascensão: Império Otomano S01 E01
+http://lista.hmtvhd.co:80/series/oneide/102030/27873.mkv
+#EXTINF:-1,Ascensão: Império Otomano S01 E02
+http://lista.hmtvhd.co:80/series/oneide/102030/27874.mkv
+#EXTINF:-1,Ascensão: Império Otomano S01 E03
+http://lista.hmtvhd.co:80/series/oneide/102030/27875.mkv
+#EXTINF:-1,Ascensão: Império Otomano S01 E04
+http://lista.hmtvhd.co:80/series/oneide/102030/27876.mkv
+#EXTINF:-1,Ascensão: Império Otomano S01 E05
+http://lista.hmtvhd.co:80/series/oneide/102030/27877.mkv
+#EXTINF:-1,Ascensão: Império Otomano S01 E06
+http://lista.hmtvhd.co:80/series/oneide/102030/27878.mkv
