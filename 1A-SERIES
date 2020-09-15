@@ -47,11 +47,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ARQUIVO X - 1993 - DUB[/COLOR]</name>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] ARQUIVO X[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A7-ARQUIVOX</externallink>
 <thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ARQUIVO X</info>
 <genre>MISTÉRIO</genre>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FAMILIA SOPRANO[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/1A5-FAMILIASOPRANO</externallink>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>FAMILIA SOPRANO</info>
+<genre>AÇÃO</genre>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
