@@ -127,10 +127,19 @@
 <channels></channels>
 <channel>
 <name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] LAÇOS DE FAMÍLIA[/COLOR]</name>
-<externallinkhttps://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2O-LA%C3%87OS%20DE%20FAMILIA</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2O-LA%C3%87OS%20DE%20FAMILIA</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>LAÇOS DE FAMÍLIA</info>
+<genre>NOVELAS</genre>
+
+<channels></channels>
+<channel>
+<name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] SARAMANDAIA[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2P-SARAMANDAIA</externallink>
+<thumbnail>https://</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>SARAMANDAIA</info>
 <genre>NOVELAS</genre>
 
 
