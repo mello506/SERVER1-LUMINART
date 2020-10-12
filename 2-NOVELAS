@@ -1,5 +1,23 @@
 <channels></channels>
 <channel>
+<name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENIDA BRASIL - REDE CANAIS[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2D1-AVENIDABRASIL</externallink>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>NOVELA AS VINGANÇAS DE CLARA</info>
+<genre>NOVELAS</genre>
+
+<channels></channels>
+<channel>
+<name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENIDA BRASIL - SERVER 1[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2N-AVENIDA%20BRASIL</externallink>
+<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AVENIDA BRASIL</info>
+<genre>NOVELAS</genre>
+
+<channels></channels>
+<channel>
 <name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2C1-ASVINGANCASDECLARA</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
@@ -188,14 +206,6 @@
 <info>O REI DO GADO</info>
 <genre>NOVELAS</genre>
 
-<channels></channels>
-<channel>
-<name>[B]NOVELA[/B][COLOR yellow] ->[/COLOR][COLOR lime] AVENIDA BRASIL[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/SERVER1-LUMINART/master/2N-AVENIDA%20BRASIL</externallink>
-<thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AVENIDA BRASIL</info>
-<genre>NOVELAS</genre>
 
 <channels></channels>
 <channel>
