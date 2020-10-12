@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] TIETA - DUB[/COLOR]
+LINKDOFILME
+
+
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] TIETA[/COLOR] CAP 01" tvg-logo="http://assistaiptvplay.com:80/images/a500b18f20dc5cd1db22b24b028efaf6.jpg" group-title="ESPECIAL: NOVELAS",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] TIETA[/COLOR] CAP 01
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/94228.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] TIETA[/COLOR] CAP 02" tvg-logo="http://assistaiptvplay.com:80/images/a500b18f20dc5cd1db22b24b028efaf6.jpg" group-title="ESPECIAL: NOVELAS",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] TIETA[/COLOR] CAP 02
