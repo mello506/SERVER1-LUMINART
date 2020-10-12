@@ -1,76 +1,79 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E01" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] A GRANDE FAMÍLIA - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  01" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  01
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96062.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E02" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  02" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  02
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96063.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E03" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  03" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  03
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96064.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E04" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  04" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  04
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E05" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  05" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  05
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96066.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E06" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  06" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  06
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96067.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E07" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  07" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  07
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96068.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E08" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  08" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  08
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96069.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E09" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  09" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  09
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96070.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E10" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E10
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  10" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  10
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96071.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E11" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E11
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  11" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  11
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96072.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E12" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E12
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  12" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  12
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96073.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E13" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E13
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  13" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  13
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96074.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E14" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E14
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  14" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  14
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96075.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E15" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E15
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  15" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  15
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96078.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E16" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E16
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  16" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  16
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96076.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E17" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E17
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  17" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  17
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96077.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E18" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E18
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  18" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  18
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96079.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E19" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E19
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  19" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  19
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96080.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E20" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E20
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  20" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  20
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96081.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E21" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E21
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  21" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  21
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96082.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E22" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E22
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  22" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  22
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96083.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E23" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E23
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  23" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  23
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96084.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E24" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E24
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  24" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  24
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96085.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E25" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E25
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  25" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  25
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96086.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E26" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E26
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  26" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  26
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96087.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E27" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E27
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  27" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  27
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96088.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E28" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E28
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  28" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  28
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96089.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E29" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E29
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  29" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  29
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96090.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E30" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E30
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  30" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  30
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96091.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E31" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E31
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  31" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  31
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E32" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E32
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  32" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  32
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96093.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E33" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E33
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  33" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  33
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96094.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E34" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E34
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  34" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  34
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96095.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E35" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E35
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  35" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  35
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96096.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Grande Família S01 E36" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S01 E36
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  36" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] A GRANDE FAMÍLIA[/COLOR] CAP  36
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96097.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Família S02 E01" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S02 E01
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96181.mkv
@@ -146,3 +149,9 @@ http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96215.mkv
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96216.mkv
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Família S02 E37" tvg-logo="http://assistaiptvplay.com:80/images/61b05e3a56ee8badddfb70d234e66d07.jpg" group-title="SÉRIE: A GRANDE FAMÍLIA",A Grande Família S02 E37
 http://assistaiptvplay.com:80/series/samuel1234/samuel1234/96217.mkv
+
+
+
+
+
+
