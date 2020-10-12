@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] MULHERES DE AREIA - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] MULHERES DE AREIA - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] MULHERES DE AREIA[/COLOR] CAP  01" tvg-logo="http://assistaiptvplay.com:80/images/2b4aa1c1d061176d9c719651cf615e38.jpg" group-title="ESPECIAL: NOVELAS",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] MULHERES DE AREIA[/COLOR] CAP  01
