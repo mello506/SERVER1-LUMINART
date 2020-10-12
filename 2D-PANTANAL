@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]REDECANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] PANTANAL - DUB[/COLOR]
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue] PANTANAL - DUB[/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-id="" tvg-name="NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] PANTANAL[/COLOR] CAP  01" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz63l0_ktnxf6FuDcaNdOKlEqBBoXtBS5qCXj2_H2Ug1IfgL1P" group-title="ESPECIAL: NOVELAS",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] PANTANAL[/COLOR] CAP  01
