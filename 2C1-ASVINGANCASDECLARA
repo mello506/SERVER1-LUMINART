@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="NOVELA" tvg-logo="ICONE" group-title="NOVELA",[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR blue] AS VINGANÇAS DE CLARA - DUB[/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   01
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP01.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   02
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP02.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   03
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP03.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   04
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP04.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   05
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP05.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   06
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP06.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   07
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP07.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   08
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP08.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   09
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP09.mp4
+#EXTINF:-1 group-title="As Vinganças de Clara (Nacional)",NOVELA[COLOR yellow] ->[/COLOR][COLOR lime] AS VINGANÇAS DE CLARA[/COLOR] CAP   10
+https://proxy.ec.cx/video.php?url=RCServer14/ondemand/ASVNGSDCLRACP10.mp4
