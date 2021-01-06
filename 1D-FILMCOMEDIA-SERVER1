@@ -8,7 +8,9 @@
 NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
-
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+ 
 <channels>
 <channel>
 <name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE COMÉDIA[/B][/COLOR]</name>
@@ -20,5 +22,44 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Três Patetas[/B][/COLOR]</name>
+<thumbnail>http://megatorrentshd.net/wp-content/uploads/2015/04/Os-Tres-Patetas-204x300.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Os Três Patetas</info>
+<genre>COMÉDIA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Três Patetas[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://megatorrentshd.net/wp-content/uploads/2015/04/Os-Tres-Patetas-204x300.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o filme Os Três Patetas em SERVIDOR</info>
+<genre>COMÉDIA</genre>  
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
- 
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Três Patetas[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BJkJXmBV_8M</link>
+<thumbnail>http://megatorrentshd.net/wp-content/uploads/2015/04/Os-Tres-Patetas-204x300.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>COMÉDIA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Três Patetas - 2012 - Dublado[/B][/COLOR]</title>
+<link>http://sv1.nowiptv.net:8880/movie/ACML2/ACM21/34339.mkv</link>
+<thumbnail>http://megatorrentshd.net/wp-content/uploads/2015/04/Os-Tres-Patetas-204x300.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Conhecidos como os três patetas, Moe (Chris Diamantopoulos), Larry (Sean Hayes) e Curly (Will Sasso) tentam salvar o orfanato em que cresceram sob os cuidados das freiras Mary-Mengele (Larry David) e Rosemary (Jennifer Hudson), e da madre superiora (Jane Lynch). Ao mesmo tempo, se veem investigados em uma trama de assassinato e como estrelas de um reality show televisivo.</info>
+<genre>COMÉDIA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
